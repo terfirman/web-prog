@@ -18,7 +18,7 @@ XAMPP Control Panel
 Visual Studio Code
 Web Browser (Google Chrome)
 
-Penjelasan Aplikasi
+Penjelasan Aplikasi :
 
 Membuat database mysql dengan phpmyadmin, buat database dengan nama member (aplikasi data member), kemudian buat table dengan nama data member dan isikan column sebagai berikut : id int(20), nama varchar(50) alamat varchar(50) no_hp int(15)
 
