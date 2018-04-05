@@ -1,11 +1,11 @@
-Aplikasi Data Mahasiswa adalah aplikasi web untuk mengelola data mahasiswa. Pada aplikasi ini terdapat fitur CRUD (Create, Read, Update, Delete) untuk mengelola data mahasiswa dari aplikasi web ke sistem basis data.
+<br>Aplikasi Data Mahasiswa adalah aplikasi web untuk mengelola data mahasiswa. Pada aplikasi ini terdapat fitur CRUD (Create, Read, Update, Delete) untuk mengelola data mahasiswa dari aplikasi web ke sistem basis data.<br>
 
-Basis data yang digunakan adalah MySQL.
-Server = localhost
-Username = root
-Password =
-Database = uts-web
-TableName = data_member
+Basis data yang digunakan adalah MySQL.<br>
+Server = localhost<br>
+Username = root<br>
+Password =<br>
+Database = uts-web<br>
+TableName = data_member<br>
 
 Nama Type
 id(20)
